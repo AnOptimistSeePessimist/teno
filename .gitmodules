@@ -1,3 +1,4 @@
 [submodule "demo"]
 	path = demo
 	url = https://gitee.com/AnOptimistSeePessimist/demo.git
+	branch = master
