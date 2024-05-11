@@ -1,4 +1,0 @@
-[submodule "demo"]
-	path = demo
-	url = http://172.21.118.108:8929/chengxiaodong/demo.git
-	branch = main
