@@ -1,6 +1,7 @@
 .classpath
 .project
 
-.idea/
+.idea/*
+!.idea/aaa.js
 
 .gradle/
